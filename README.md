@@ -1,6 +1,4 @@
-<h1>Hi, I'm Chip <br/><a href="https://github.com/pawblo1">Principal Engineer</a>, // <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>,
-
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h1>Hi, I'm Chip <br/><a href="https://github.com/pawblo1">Principal Engineer, Executive Director</a>, 
 
 - <b>Azure / Cloud Project (AlgoExpert)</b>
   - [Creating a Live SOC Honeynet]([https://github.com/pawblo1/Cloud-SOC])
